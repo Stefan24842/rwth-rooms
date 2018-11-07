@@ -1,5 +1,5 @@
-| Room | Number |
-| :--- | :----- |
+| Room | Number | Link |
+| :--- | :----- | :--- |
 | t.b.d. | 0002 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0002) |
 | AH II (2350\|111) | 0023 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0023) |
 | AH III (2350\|314.1) | 0024 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0024) |
