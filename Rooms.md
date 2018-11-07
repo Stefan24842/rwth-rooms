@@ -1,711 +1,859 @@
 | Room | Number |
 | :--- | :----- |
-| t.b.d. | 0002 |
-| AH II (2350\|111) | 0023 |
-| AH III (2350\|314.1) | 0024 |
-| AH IV (2354\|030) | 0025 |
-| AH V (2356\|050) | 0026 |
-| AH VI (2356\|051) | 0027 |
-| Aula 2 (2352\|021) | 0030 |
-| Be 114 (1140\|114) | 0032 |
-| Be 225 (1140\|225) | 0034 |
-| BF (1240\|257) | 0036 |
-| BS I (2131\|101) | 0038 |
-| BS II (2131\|102) | 0039 |
-| BS 218 (2130\|218) | 0040 |
-| BS 312 (2130\|312) | 0041 |
-| B037 (3011\|037) | 0042 |
-| B041 (3011\|041) | 0043 |
-| B044 (3011\|044) | 0044 |
-| B056 (3011\|056) | 0045 |
-| B201 (3011\|201) | 0047 |
-| CIP-Pool FB3 BS 714 (2130\|714) | 0049 |
-| CIP-Pool FB3 BS 715 (2130\|715) | 0050 |
-| CN1 (2280\|011) | 0051 |
-| CN2 (2280\|012) | 0052 |
-| Couven-Halle (1072\|001) | 0053 |
-| C102 (3010\|102) | 0054 |
-| C135 (3010\|135) | 0055 |
-| C237 (3010\|237) | 0056 |
-| C301 (3010\|301) | 0057 |
-| EA (1270\|109) | 0059 |
-| Eph (1090\|321) | 0060 |
-| E1 (1090\|301) | 0061 |
-| E101 (1660\|001) | 0062 |
-| E102 (1660\|004) | 0063 |
-| E201 (1660\|101) | 0064 |
-| E202 (1660\|104) | 0065 |
-| Fk 9 (1541\|209) | 0066 |
-| FT (2090\|120) | 0076 |
-| GH (1370\|001) | 0077 |
-| Großer Hörsaal AM (1420\|210) | 0078 |
-| GRS001 (1095\|001) | 0079 |
-| GRS101 (1095\|101) | 0080 |
-| GRS102 (1095\|102) | 0081 |
-| Grüner Hörsaal AM (Gr) (1420\|001) | 0082 |
-| H 201 (1401\|201) | 0085 |
-| H 212 (1400\|212) | 0086 |
-| H 218 (1390\|218) | 0087 |
-| HKW 3 (1132\|504) | 0096 |
-| HKW 4 (1132\|503) | 0097 |
-| HKW 5 (1132\|603) | 0098 |
-| I (1010\|101) | 0101 |
-| IFP-1 (6010\|216) | 0102 |
-| IFP-2 (6010\|216.1) | 0103 |
-| II (1010\|201) | 0104 |
-| III (1010\|107) | 0105 |
-| IV (1010\|141) | 0106 |
-| klPhys (1090\|334) | 0107 |
-| Lu (1320\|301) | 0108 |
-| MN15 (4122\|015) | 0110 |
-| MN16 (4122\|016) | 0111 |
-| MS (1220\|310) | 0112 |
-| IPC Hörsaal (2400\|U101) | 0113 |
-| Phil (1070\|113) | 0114 |
-| PPS H1 (2315\|101) | 0115 |
-| PPS H2 (2315\|001) | 0116 |
-| R 137 (1080\|137) | 0117 |
-| R 140 (1080\|140) | 0118 |
-| R 220 (1080\|220) | 0119 |
-| R 5 (1080\|005) | 0120 |
-| Roter Hörsaal AM (Ro) (1420\|002) | 0121 |
-| RS 103 (3990\|103) | 0122 |
-| RS 105 (3990\|105) | 0123 |
-| RS 106 (3990\|106) | 0124 |
-| RS 107 (3990\|107) | 0125 |
-| RS 108 (3990\|108) | 0126 |
-| RS 4 (3990\|004) | 0128 |
-| RS 5 (3990\|005) | 0129 |
-| SE 001 (1580\|001) | 0130 |
-| SE 002 (1580\|002) | 0131 |
-| SE 003 (1580\|003) | 0132 |
-| SE 101 (1580\|101) | 0133 |
-| SE 102 (1580\|102) | 0134 |
-| SE 103 (1580\|103) | 0135 |
-| SE 108 (1580\|108) | 0136 |
-| SE 209 (1580\|209) | 0137 |
-| SFo 1 (1821\|001) | 0138 |
-| SFo 10 (1821\|010) | 0139 |
-| SFo 11 (1821\|011) | 0140 |
-| SFo 12 (1821\|012) | 0141 |
-| SFo 13 (1821\|013) | 0142 |
-| SFo 14 (1821\|014) | 0143 |
-| SFo 2 (1821\|002) | 0144 |
-| SFo 3 (1821\|003) | 0145 |
-| SFo 4 (1821\|004) | 0146 |
-| SFo 9 (1821\|009) | 0147 |
-| SG 12 (1810\|012) | 0148 |
-| SG 13 (1810\|013) | 0149 |
-| SG 202 (1810\|202) | 0150 |
-| SG 203 (1810\|203) | 0151 |
-| SG 23 (1810\|023) | 0152 |
-| SG 413 (1810\|413) | 0153 |
-| SG 422 (1810\|422) | 0154 |
-| SG 512 (1810\|512) | 0155 |
-| SG 513 (1810\|513) | 0156 |
-| Sparkassenforum (1040\|U234) | 0157 |
-| ST 1 (1665\|001) | 0160 |
-| ST 2 (1665\|002) | 0161 |
-| ST 3 (1665\|003) | 0162 |
-| ST 4 (1665\|004) | 0163 |
-| ST 5 (1665\|005) | 0164 |
-| ST 6 (1665\|006) | 0165 |
-| ST 7 (1665\|007) | 0166 |
-| ST 8 (1665\|008) | 0167 |
-| TD (1300\|408) | 0169 |
-| TEMP1 (1515\|001) | 0170 |
-| TEMP2 (1515\|002) | 0171 |
-| UMIC_024 (2165\|024) | 0172 |
-| UMIC_025 (2165\|025) | 0173 |
-| V (1010\|213) | 0174 |
-| VT (1100\|U101) | 0175 |
-| WK (1230\|001) | 0176 |
-| Z1 (1420\|304) | 0177 |
-| Z2 (1420\|303) | 0178 |
-| Z3 (1420\|302) | 0179 |
-| Z4 (1420\|301) | 0180 |
-| Z6 (1420\|201) | 0181 |
-| Z7 (1420\|201.3) | 0182 |
-| 001 (1830\|001) | 0183 |
-| 004 (1830\|004) | 0184 |
-| 1.29 (1040\|129) | 0185 |
-| 1.30 (1040\|130) | 0186 |
-| 28B 201 (4282\|201) | 0187 |
-| 38 A 2 (5381\|U103) | 0188 |
-| 4.29 (1040\|429) | 0189 |
-| 4.30 (1040\|430) | 0190 |
-| 5052 (2356\|052) | 0191 |
-| 5054 (2356\|054) | 0192 |
-| 5055 (2356\|055) | 0193 |
-| 5056 (2356\|056) | 0194 |
-| 5.31 (1040\|531) | 0195 |
-| 5.32 (1040\|532) | 0196 |
-| 1710\|201 | 0202 |
-| 1710\|201 | 0203 |
-| AachenMünchener Halle (Aula) (1010\|131) | 0204 |
-| AOC (2020\|131) | 0223 |
-| 38 A 1 (5381\|U111) | 0242 |
-| 1710\|202 | 0243 |
-| 38 A 3 (5381\|006) | 0245 |
-| MBP2 016 (4273\|016) | 0246 |
-| OC Hörsaal (2030\|015) | 0247 |
-| 5393\|172 | 0248 |
-| ZuseLab C2 (2315\|106) | 0249 |
-| ZuseLab C1 (2315\|107) | 0250 |
-| ZuseLab C4 (2315\|201) | 0251 |
-| ZuseLab C5 (2315\|202) | 0252 |
-| ZuseLab S1 (2315\|203) | 0253 |
-| ZuseLab C3 (2315\|211) | 0254 |
-| 2290\|112 | 0255 |
-| 1080\|103 | 0256 |
-| 2013\|101 | 0257 |
-| 2013\|102 | 0258 |
-| 2013\|102.1 | 0259 |
-| 2013\|201 | 0260 |
-| 2013\|202 | 0261 |
-| 2013\|202.1 | 0262 |
-| OC Praktikumssaal F1 (2013\|301) | 0263 |
-| OC Praktikumssaal F2 (2013\|302) | 0264 |
-| OC Praktikumssaal F3 (2013\|401) | 0265 |
-| OC Praktikumssaal F4 (2013\|402) | 0266 |
-| 2020\|002 | 0267 |
-| 2020\|003 | 0268 |
-| 5383\|233 | 0269 |
-| Praktikumssaal TC 38C333 (5383\|333) | 0270 |
-| 5383\|330 | 0271 |
-| Praktikumssaal TC 38C434 (5383\|434) | 0272 |
-| 5383\|430 | 0273 |
-| AC (2010\|107) | 0274 |
-| Experimentierhörsaal (2020\|102) | 0276 |
-| Seminarraum AC (2020\|202) | 0277 |
-| F 60 (1440\|160) | 0278 |
-| IPC Besprechungsraum (2400\|012) | 0280 |
-| IPC Praktikumssaal (2400\|004) | 0281 |
-| IPC Praktikumssaal (2400\|014) | 0282 |
-| 2030\|215.1 | 0283 |
-| Seminarraum TC (5422\|330.1) | 0284 |
-| Kleiner Hörsaal 42B331 (5422\|331) | 0285 |
-| Seminarraum 42 B 250 (B3) (5422\|250) | 0286 |
-| 1810\|101 | 0288 |
-| 1810\|108 | 0289 |
-| 1810\|118 | 0290 |
-| 1810\|138 | 0291 |
-| 1810\|223 | 0292 |
-| 1810\|224 | 0293 |
-| 2090\|U113 | 0294 |
-| ICT Cubes 001 (2320\|001) | 0295 |
-| ICT Cubes 002 (2320\|002) | 0296 |
-| 4242\|024 | 0297 |
-| 4242\|208 | 0298 |
-| 4242\|209 | 0299 |
-| 4242\|209.1 | 0300 |
-| 4242\|209.2 | 0301 |
-| 4242\|318 | 0302 |
-| 4242\|319 | 0303 |
-| 4242\|320 | 0304 |
-| WSH S2 (4243\|102) | 0305 |
-| WSH S1 (4243\|104) | 0306 |
-| WSH Praktikum (4243\|105) | 0307 |
-| 4243\|105.1 | 0308 |
-| Otto Fuchs-Hörsaal (H03) (1385\|003) | 0322 |
-| H06 (1385\|004) | 0323 |
-| H01 (1385\|101) | 0324 |
-| trivago-Hörsaal (H02) (1385\|102) | 0325 |
-| Knorr-Bremse-Hörsaal (H04) (1385\|103) | 0326 |
-| H07 (1385\|104) | 0327 |
-| H05 (1385\|105) | 0328 |
-| S01 (1385\|201) | 0329 |
-| S02 (1385\|202) | 0330 |
-| S03 (1385\|203) | 0331 |
-| S04 (1385\|204) | 0332 |
-| S05 (1385\|205) | 0333 |
-| S06 (1385\|206) | 0334 |
-| S07 (1385\|207) | 0335 |
-| S08 (1385\|208) | 0336 |
-| S09 (1385\|209) | 0337 |
-| S10 (1385\|210) | 0338 |
-| S11 (1385\|211) | 0339 |
-| S12 (1385\|212) | 0340 |
-| S13 (1385\|213) | 0341 |
-| S14 (1385\|214) | 0342 |
-| S15 (1385\|215) | 0343 |
-| S16 (1385\|216) | 0344 |
-| H10 (1385\|217) | 0345 |
-| H11 (1385\|218) | 0346 |
-| H08 (1385\|219) | 0347 |
-| H09 (1385\|220) | 0348 |
-| AH I alt bis SS 19 (2350\|009) | 0353 |
-| OC Seminarraum 6. Etage links (2031\|610) | 0354 |
-| 28D 001 (Hörsaal Physik) (4284\|101) | 0355 |
-| HKW 2 (1132\|303) | 0356 |
-| HSZ (2110\|112) | 0357 |
-| FOE (1830\|120) | 0358 |
-| IPC Seminarraum (2400\|002) | 0359 |
-| 2356\|010 | 0360 |
-| 6070\|Z202 | 0361 |
-| AS (1050\|U101) | 0362 |
-| RS 3 (3990\|003) | 0382 |
-| MBP2 015 (4273\|015) | 0383 |
-| 4273\|211 | 0384 |
-| 4273\|212 | 0385 |
-| 1220\|815 | 0424 |
-| 4741\|001 | 0425 |
-| 5382\|218 | 0426 |
-| OC Praktikumssaal G5 (2030\|013) | 0427 |
-| OC Praktikumssaal G1 (2030\|113) | 0429 |
-| OC Praktikumssaal G3 (2030\|215) | 0431 |
-| 5381\|101 | 0433 |
-| 5381\|102 | 0434 |
-| 1070\|103 | 0435 |
-| 1070\|104 | 0436 |
-| 1070\|114 | 0437 |
-| 1821\|130 | 0438 |
-| 4120\|132 | 0439 |
-| 2280\|U104 | 0440 |
-| 2280\|U105 | 0441 |
-| 2280\|U106 | 0442 |
-| 2280\|U107 | 0443 |
-| 3010\|019 | 0444 |
-| 3010\|047 | 0445 |
-| 3010\|059 | 0446 |
-| 1810\|201 | 0447 |
-| 1810\|205 | 0448 |
-| CIP-Pool FB6 (1810\|210) | 0450 |
-| 1810\|213 | 0451 |
-| 1810\|214 | 0452 |
-| 1810\|215 | 0453 |
-| 1810\|216 | 0454 |
-| 1810\|217 | 0455 |
-| 4242\|005 | 0456 |
-| 4242\|005.1 | 0457 |
-| 2320\|114 | 0458 |
-| 2320\|115 | 0459 |
-| 2321\|130 | 0460 |
-| 2321\|131 | 0461 |
-| 2321\|132 | 0462 |
-| 4120\|139 | 0463 |
-| 6010\|116 | 0464 |
-| 6010\|137 | 0465 |
-| E2 (1250\|143) | 0466 |
-| VT 214 (1100\|214) | 0482 |
-| Ford-Saal (1040\|637) | 0484 |
-| Generali-Saal (1040\|639) | 0485 |
-| 1420\|206 | 0486 |
-| 1420\|208 | 0487 |
-| 1810\|001 | 0488 |
-| 1050\|301 | 0489 |
-| 1050\|330.2 | 0490 |
-| 1050\|315 | 0491 |
-| 1360\|001 | 0492 |
-| 1360\|106 | 0493 |
-| 1360\|202 | 0494 |
-| 1360\|203 | 0495 |
-| 1360\|301 | 0496 |
-| 1520\|008 | 0497 |
-| 1522\|011 | 0498 |
-| 1522\|013 | 0499 |
-| 1522\|014 | 0500 |
-| 1522\|109 | 0501 |
-| 1522\|110 | 0502 |
-| 1160\|206 | 0503 |
-| 1160\|308 | 0504 |
-| 1160\|401 | 0505 |
-| 1160\|402 | 0506 |
-| 1160\|403 | 0507 |
-| 1170\|101 | 0508 |
-| 1170\|311 | 0509 |
-| 1170\|312 | 0510 |
-| 1170\|313 | 0511 |
-| Schulungsraum SW23 (2190\|147) | 0517 |
-| Seminarraum 2.31 SW23 (2190\|231) | 0519 |
-| SW23 3.04 (2190\|304) | 0520 |
-| Seminarraum 001 (2191\|001) | 0521 |
-| Seminarraum 003 (2191\|003) | 0523 |
-| Seminarraum 004 (2191\|004) | 0524 |
-| 2110\|107 | 0525 |
-| 2356\|019 | 0526 |
-| 2356\|030 | 0527 |
-| Sprachlabor (1580\|201) | 0528 |
-| 1580\|202 | 0529 |
-| 4660\|002 | 0530 |
-| 4660\|005 | 0531 |
-| 4660\|019 | 0532 |
-| 4660\|101 | 0533 |
-| 4660\|114 | 0534 |
-| 4660\|118 | 0535 |
-| 4660\|119 | 0536 |
-| 4660\|120 | 0537 |
-| 4660\|121 | 0538 |
-| 4660\|122 | 0539 |
-| 4660\|123 | 0540 |
-| 4660\|131 | 0541 |
-| 4660\|205 | 0542 |
-| 4660\|216 | 0543 |
-| 4660\|217 | 0544 |
-| 4660\|218 | 0545 |
-| 5392\|015 | 0546 |
-| 1390\|312 | 0547 |
-| 1200\|111 | 0548 |
-| 1200\|220 | 0549 |
-| 1200\|226 | 0550 |
-| 1140\|415 | 0552 |
-| 1095\|103 | 0553 |
-| E.ON ERC 00.24, Mathieustraße 10 (4120\|024) | 0554 |
-| 5381\|102.2 | 0555 |
-| 1950\|003 | 0556 |
-| SeMath (1950\|008) | 0557 |
-| MBP1 015 (4272\|015) | 0558 |
-| 1010\|149 | 0560 |
-| 1010\|114 | 0561 |
-| 1010\|115 | 0562 |
-| 1010\|223 | 0563 |
-| 1950\|001 | 0564 |
-| 1090\|328 | 0566 |
-| 2350\|U110 | 0567 |
-| 2359\|U111 | 0568 |
-| 9U10 (2359\|U112) | 0569 |
-| 2359\|U113 | 0570 |
-| 2359\|206 | 0571 |
-| 5400\|004 | 0572 |
-| Bibliothek Bio V (5423\|233) | 0573 |
-| 2353\|001 | 0574 |
-| 2353\|002 | 0575 |
-| 2353\|007 | 0576 |
-| 2353\|U114 | 0577 |
-| 2353\|U116 | 0578 |
-| 2353\|U118 | 0579 |
-| 2353\|017 | 0581 |
-| 2353\|201.1 | 0582 |
-| 2353\|307 | 0583 |
-| 2353\|311 | 0584 |
-| 2353\|312 | 0585 |
-| Studentischer Arbeitsraum (Raum 9029) (2359\|006) | 0586 |
-| Studentischer Arbeitsraum (Raum 9030) (2359\|007) | 0587 |
-| Studentischer Arbeitsraum (Raum 9005) (2359\|019) | 0588 |
-| Seminarraum COMSYS (9007) (2359\|021) | 0589 |
-| 2356\|053.1 | 0590 |
-| 2356\|053.2 | 0591 |
-| 2356\|053.3 | 0592 |
-| 2356\|202 | 0593 |
-| 2356\|241 | 0594 |
-| 2356\|241.1 | 0595 |
-| 2356\|205 | 0596 |
-| 2356\|124 | 0597 |
-| 1080\|139 | 0598 |
-| 1080\|141 | 0599 |
-| 1080\|221 | 0600 |
-| 1080\|222 | 0601 |
-| 1080\|325 | 0602 |
-| 1541\|301 | 0603 |
-| 1541\|302 | 0604 |
-| 1541\|304 | 0605 |
-| 1541\|305 | 0606 |
-| 1541\|313 | 0607 |
-| 1541\|314 | 0608 |
-| keine verfügbare Ressource (1541\|315) | 0609 |
-| Geschlossen wg. Schimmelbefall (1541\|316) | 0610 |
-| 1541\|318 | 0611 |
-| 1541\|319 | 0612 |
-| 2359\|105 | 0613 |
-| 2359\|118 | 0614 |
-| 2359\|120 | 0615 |
-| 3990\|201 | 0616 |
-| 202/ 203 (3990\|202) | 0617 |
-| 3990\|204 | 0618 |
-| 3990\|205 | 0619 |
-| 3990\|206 | 0620 |
-| 3990\|207 | 0621 |
-| 3990\|208 | 0622 |
-| 303 A (3990\|307) | 0623 |
-| 303 B (3990\|308) | 0624 |
-| 303 C (3990\|309) | 0625 |
-| 2356\|316 | 0626 |
-| 2356\|329 | 0627 |
-| 2356\|006 | 0628 |
-| 1080\|305 | 0629 |
-| 2350\|212 | 0630 |
-| Seminarraum Informatik 10 (2350\|222) | 0631 |
-| 1080\|101 | 0632 |
-| 1080\|102 | 0633 |
-| LearnLab (1080\|108) | 0634 |
-| 2002 (2350\|002) | 0635 |
-| 2350\|202 | 0636 |
-| 2350\|323 | 0637 |
-| Arbeitsraum Masterstudenten (1080\|U117) | 0638 |
-| Seminarraum (1080\|U118) | 0639 |
-| offener Raum mit angeschlossenem Sekretariat (1080\|006) | 0640 |
-| Seminarraum i7, Raum 4116 (2353\|116) | 0641 |
-| 2165\|229 | 0642 |
-| 26A 014 (4261\|014) | 0656 |
-| 28A 301 (4281\|301) | 0673 |
-| 4272\|002 | 0674 |
-| 4272\|003 | 0675 |
-| 4272\|004 | 0676 |
-| 4272\|005 | 0677 |
-| 4272\|006 | 0678 |
-| 4272\|007 | 0679 |
-| 4272\|008 | 0680 |
-| 4272\|009 | 0681 |
-| 4272\|010 | 0682 |
-| 4272\|011 | 0683 |
-| 4272\|012 | 0684 |
-| 4272\|013 | 0685 |
-| 4272\|014 | 0686 |
-| 4263\|301 | 0687 |
-| 26C 201 (4263\|201) | 0688 |
-| 26C 401 (4263\|401) | 0689 |
-| 26C 402 (4263\|402) | 0690 |
-| 28A 202 (4281\|202) | 0691 |
-| 28A 203 (4281\|203) | 0692 |
-| 4281\|204 | 0693 |
-| 4282\|101 | 0694 |
-| 4282\|102 | 0695 |
-| 4282\|102.1 | 0696 |
-| 4282\|103 | 0697 |
-| 4282\|104 | 0698 |
-| 4282\|105 | 0699 |
-| 4282\|106 | 0700 |
-| 4282\|107 | 0701 |
-| 4282\|109 | 0702 |
-| 28B 110 (4282\|110) | 0703 |
-| IST Seminarraum (1030\|017) | 0705 |
-| 1050\|221 | 0706 |
-| 1050\|508 | 0708 |
-| WiÜ (1050\|517) | 0709 |
-| 1050\|606 | 0710 |
-| B234 (3011\|234) | 0712 |
-| 1050\|519 | 0713 |
-| 1070\|008 | 0714 |
-| 1080\|019 | 0715 |
-| 1080\|020 | 0716 |
-| 1080\|211 | 0717 |
-| 1080\|Z215.1 | 0718 |
-| 1080\|Z217.1 | 0719 |
-| 1080\|215 | 0720 |
-| 1080\|217 | 0721 |
-| 1090\|323 | 0722 |
-| 1080\|308 | 0723 |
-| 1080\|311 | 0724 |
-| 1080\|Z407.2 | 0725 |
-| 1080\|Z409.1 | 0726 |
-| 1080\|404 | 0727 |
-| 1080\|407 | 0728 |
-| 1080\|Z119.2 | 0729 |
-| 1110\|001 | 0730 |
-| 1110\|002 | 0731 |
-| 1111\|004 | 0732 |
-| 1111\|101 | 0733 |
-| 1450\|003 | 0734 |
-| 1090\|108 | 0735 |
-| 1090\|212 | 0736 |
-| 1090\|315 | 0737 |
-| 1090\|316 | 0738 |
-| 1090\|402 | 0739 |
-| 1090\|513 | 0740 |
-| 1810\|106 | 0741 |
-| 1810\|109 | 0742 |
-| 1810\|110 | 0743 |
-| 1100\|204 | 0744 |
-| 1100\|205 | 0745 |
-| 1100\|210 | 0746 |
-| 1100\|211 | 0747 |
-| 1310\|419 | 0748 |
-| 1140\|048 | 0749 |
-| 1140\|050 | 0750 |
-| 1140\|051 | 0751 |
-| 1140\|226 | 0752 |
-| 1541\|009 | 0753 |
-| 1140\|212 | 0754 |
-| 1542\|013 | 0755 |
-| Be 318, Wüllnerstr. 2 (1140\|318) | 0756 |
-| Be 326, Wüllnerstr. 2 (1140\|326) | 0757 |
-| Be 409, Wüllnerstr. 2 (1140\|409.1) | 0758 |
-| Mikroskopielabor Be 414, Wüllnerstr. 2 (1140\|414) | 0759 |
-| Vorbereitungsraum, Süsterfeldstr. 22 (1510\|205) | 0760 |
-| 1140\|601 | 0761 |
-| 1160\|009 | 0762 |
-| 1160\|106 | 0763 |
-| Bibliothek 2 (1160\|109) | 0764 |
-| Bibliothek (1180\|001) | 0765 |
-| Lombardsaal (1180\|007) | 0766 |
-| 1180\|008 | 0767 |
-| 1210\|318 | 0768 |
-| 1210\|319 | 0769 |
-| 1220\|303 | 0770 |
-| 4542\|001 | 0771 |
-| MBP2 116 (4273\|116) | 0772 |
-| MBP2 117 (4273\|117) | 0773 |
-| 2020\|104 | 0774 |
-| Gruppenraum MC (5382\|011) | 0782 |
-| Kleiner Mikroskopiersaal (5421\|013) | 0783 |
-| Großer Mikroskopiersaal (5421\|032) | 0784 |
-| A033 (5421\|033) | 0785 |
-| 5421\|034 | 0786 |
-| 5421\|035 | 0787 |
-| 5423\|037 | 0788 |
-| Lernraum/Großer Lernraum (5423\|130) | 0789 |
-| Lernraum/Stillarbeitsraum (5423\|150) | 0790 |
-| Lernraum/Gruppenlernraum (5423\|151) | 0791 |
-| 5350\|307 | 0792 |
-| 5350\|344 | 0793 |
-| 5421\|314 | 0794 |
-| 5422\|231 | 0795 |
-| 5424\|311 | 0796 |
-| 5424\|334 | 0797 |
-| 5424\|111 | 0798 |
-| 5421\|116 | 0799 |
-| 5421\|130 | 0800 |
-| 5421\|250 | 0801 |
-| Raum 0.012 (5350\|046) | 0802 |
-| Raum 0.011 Vorbereitung (5350\|046.1) | 0803 |
-| Raum 1.011 (5350\|142) | 0804 |
-| Raum 1.010 (5350\|143) | 0805 |
-| Raum 2.015 (5350\|245) | 0806 |
-| Raum 2.015 Laborzeile (5350\|245.1) | 0807 |
-| Raum 2.013 (5350\|246) | 0808 |
-| Raum 2.011 (5350\|247) | 0809 |
-| Raum 2.011 Laborzeile (5350\|247.1) | 0810 |
-| 1541\|322 | 0811 |
-| 1541\|306 | 0812 |
-| 1541\|307 | 0813 |
-| 1541\|308 | 0814 |
-| T3 Pavillon (2125\|001) | 0815 |
-| Zeichensaal ZS 414 (2130\|414) | 0816 |
-| 2130\|503 | 0817 |
-| Zeichensaal ZS 511 (2130\|511) | 0818 |
-| 2130\|512 | 0819 |
-| Zeichensaal ZS 613 (2130\|613) | 0820 |
-| 5424\|212 | 0821 |
-| 5424\|213 | 0822 |
-| 5424\|214 | 0823 |
-| 5424\|238 | 0824 |
-| 5350\|447 | 0825 |
-| 1810\|317 | 0826 |
-| 1810\|301 | 0827 |
-| 1810\|309 | 0828 |
-| 1541\|317 | 0829 |
-| 2130\|114 | 0830 |
-| 2130\|236 | 0831 |
-| 2130\|309 | 0832 |
-| 2130\|605 | 0833 |
-| 4080\|103 | 0834 |
-| 4100\|003 | 0835 |
-| 4610\|004 | 0836 |
-| 4610\|006 | 0837 |
-| 4650\|210 | 0838 |
-| 2130\|406 | 0839 |
-| 2130\|413 | 0840 |
-| 2135\|002 | 0841 |
-| 2175\|209 | 0842 |
-| 1220\|506 | 0843 |
-| 4150\|107 | 0850 |
-| 4153\|018 | 0851 |
-| 4153\|019 | 0852 |
-| 4153\|118 | 0853 |
-| 4153\|119 | 0854 |
-| 4153\|120 | 0855 |
-| 4153\|121 | 0856 |
-| 1300\|402 | 0857 |
-| 4070\|213 | 0858 |
-| 1225\|106 | 0859 |
-| 4532\|201 | 0864 |
-| 4532\|209 | 0865 |
-| 4550\|144 | 0866 |
-| 4532\|101 | 0867 |
-| 4550\|132 | 0872 |
-| 4550\|132.2 | 0873 |
-| 2140\|006 | 0874 |
-| 2140\|106 | 0875 |
-| 1320\|515 | 0879 |
-| 1320\|505 | 0880 |
-| 1320\|110 | 0881 |
-| 4532\|108 | 0882 |
-| 1630\|U101 | 0886 |
-| 3990\|002 | 0887 |
-| 3990\|101 | 0888 |
-| Seminarraum FT 103 (2090\|U203) | 0889 |
-| PC-Pool & Lernraum (2090\|121) | 0890 |
-| 2090\|127 | 0891 |
-| 2090\|128 | 0892 |
-| 2090\|221 | 0893 |
-| 1230\|003 | 0894 |
-| 1230\|011 | 0895 |
-| 4160\|303 | 0899 |
-| Seminarraum Nord/Süd im EG (4161\|025) | 0900 |
-| 4161\|117 | 0901 |
-| Seminarraum im 1. OG, Lünenschloß (4161\|122) | 0902 |
-| 5400\|005 | 0903 |
-| 5400\|015 | 0904 |
-| 5400\|015.1 | 0905 |
-| 5410\|206 | 0906 |
-| 4120\|252 | 0907 |
-| 4122\|007 | 0908 |
-| LIH 501, Lochnerstr. 4-20 (1540\|501) | 0909 |
-| LIH 503, Lochnerstr. 4-20 (1540\|503) | 0910 |
-| LIH 504, Lochnerstr. 4-20 (1540\|504) | 0911 |
-| 3011\|224 | 0912 |
-| 3011\|225 | 0913 |
-| 3011\|226 | 0914 |
-| OMS Seminarraum (3011\|227) | 0915 |
-| 3011\|228 | 0916 |
-| 3011\|229 | 0917 |
-| 2162\|217 | 0918 |
-| 1401\|111 | 0921 |
-| 1401\|306 | 0922 |
-| 1390\|217 | 0923 |
-| 2180\|201 | 0924 |
-| 2180\|211 | 0925 |
-| 1440\|161 | 0927 |
-| 1370\|004 | 0928 |
-| 1370\|301 | 0929 |
-| Seminarraum 01-220 (2162\|117) | 0930 |
-| Großer Seminarraum (1381\|101) | 0931 |
-| Kleiner Seminarraum (1381\|102) | 0932 |
-| 1510\|201 | 0933 |
-| IFK 310, Jägerstr. 17-19 (6010\|310) | 0934 |
-| 1810\|403 | 0935 |
-| 1540\|314 | 0936 |
-| GED/NUG 408, Lochnerstr. 4-20 (1540\|408) | 0937 |
-| GED/NUG 414, Lochnerstr. 4-20 (1540\|414) | 0938 |
-| 1540\|210 | 0939 |
-| LIH 217, Lochnerstr. 4-20 (1540\|217) | 0940 |
-| LIH 507 (CIP-Pool), Lochnerstr. 4-20 (1540\|507) | 0941 |
-| 1540\|509 | 0942 |
-| Seminarraum LEK, Lochnerstr. 4-20, Haus B (1541\|109) | 0943 |
-| CIP-Pool, E.ONERC 20.44, Mathieustr. 10 (4120\|244) | 0944 |
-| 5400\|015.2 | 0945 |
-| 5411\|054 | 0946 |
-| 2320\|412 | 0947 |
-| 2320\|513 | 0948 |
-| 2321\|430 | 0949 |
-| 2321\|431 | 0950 |
-| 2321\|432 | 0951 |
-| Multimediaraum (MMR, R27) (2090\|008) | 0952 |
-| Praktikum Kommunikationstechnik (R41) (2090\|210) | 0953 |
-| Studierendenlabor links (R41a) (2090\|211) | 0954 |
-| Studierendenlabor rechts (R41b) (2090\|212) | 0955 |
-| IKS 209 (2040\|009) | 0957 |
-| 4G (2040\|201) | 0961 |
-| Praktikumsraum (2321\|332) | 0967 |
-| Seminarraum (2321\|333) | 0968 |
-| Seminarraum (2321\|334) | 0969 |
-| 1270\|104 | 0970 |
-| 2350\|101 | 0971 |
-| 2320\|213 | 0972 |
-| 2320\|214 | 0973 |
-| 2321\|230 | 0974 |
-| 2321\|231 | 0975 |
-| 4243\|213 | 0976 |
-| 4243\|214 | 0977 |
-| 2321\|631 | 0978 |
-| 2321\|632 | 0979 |
-| 1710\|206 | 0980 |
-| 6011\|307 | 0981 |
-| 6011\|307.1 | 0982 |
-| 6011\|308 | 0983 |
-| 6011\|309 | 0984 |
-| 6011\|310 | 0985 |
-| 6011\|311 | 0986 |
-| 1830\|101 | 0987 |
-| Dautzenberg-Raum (6070\|001) | 0988 |
-| Reumont-Raum (6070\|002) | 0989 |
+| t.b.d. | 0002 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0002) |
+| AH II (2350\|111) | 0023 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0023) |
+| AH III (2350\|314.1) | 0024 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0024) |
+| AH IV (2354\|030) | 0025 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0025) |
+| AH V (2356\|050) | 0026 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0026) |
+| AH VI (2356\|051) | 0027 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0027) |
+| Aula 2 (2352\|021) | 0030 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0030) |
+| Be 114 (1140\|114) | 0032 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0032) |
+| Be 225 (1140\|225) | 0034 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0034) |
+| BF (1240\|257) | 0036 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0036) |
+| BS I (2131\|101) | 0038 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0038) |
+| BS II (2131\|102) | 0039 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0039) |
+| BS 218 (2130\|218) | 0040 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0040) |
+| BS 312 (2130\|312) | 0041 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0041) |
+| B037 (3011\|037) | 0042 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0042) |
+| B041 (3011\|041) | 0043 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0043) |
+| B044 (3011\|044) | 0044 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0044) |
+| B056 (3011\|056) | 0045 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0045) |
+| B201 (3011\|201) | 0047 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0047) |
+| CIP-Pool FB3 BS 714 (2130\|714) | 0049 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0049) |
+| CIP-Pool FB3 BS 715 (2130\|715) | 0050 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0050) |
+| CN1 (2280\|011) | 0051 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0051) |
+| CN2 (2280\|012) | 0052 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0052) |
+| Couven-Halle (1072\|001) | 0053 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0053) |
+| C102 (3010\|102) | 0054 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0054) |
+| C135 (3010\|135) | 0055 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0055) |
+| C237 (3010\|237) | 0056 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0056) |
+| C301 (3010\|301) | 0057 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0057) |
+| EA (1270\|109) | 0059 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0059) |
+| Eph (1090\|321) | 0060 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0060) |
+| E1 (1090\|301) | 0061 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0061) |
+| E101 (1660\|001) | 0062 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0062) |
+| E102 (1660\|004) | 0063 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0063) |
+| E201 (1660\|101) | 0064 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0064) |
+| E202 (1660\|104) | 0065 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0065) |
+| Fk 9 (1541\|209) | 0066 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0066) |
+| FT (2090\|120) | 0076 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0076) |
+| GH (1370\|001) | 0077 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0077) |
+| Großer Hörsaal AM (1420\|210) | 0078 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0078) |
+| GRS001 (1095\|001) | 0079 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0079) |
+| GRS101 (1095\|101) | 0080 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0080) |
+| GRS102 (1095\|102) | 0081 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0081) |
+| Grüner Hörsaal AM (Gr) (1420\|001) | 0082 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0082) |
+| H 201 (1401\|201) | 0085 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0085) |
+| H 212 (1400\|212) | 0086 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0086) |
+| H 218 (1390\|218) | 0087 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0087) |
+| HKW 3 (1132\|504) | 0096 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0096) |
+| HKW 4 (1132\|503) | 0097 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0097) |
+| HKW 5 (1132\|603) | 0098 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0098) |
+| I (1010\|101) | 0101 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0101) |
+| IFP-1 (6010\|216) | 0102 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0102) |
+| IFP-2 (6010\|216.1) | 0103 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0103) |
+| II (1010\|201) | 0104 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0104) |
+| III (1010\|107) | 0105 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0105) |
+| IV (1010\|141) | 0106 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0106) |
+| klPhys (1090\|334) | 0107 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0107) |
+| Lu (1320\|301) | 0108 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0108) |
+| MN15 (4122\|015) | 0110 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0110) |
+| MN16 (4122\|016) | 0111 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0111) |
+| MS (1220\|310) | 0112 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0112) |
+| IPC Hörsaal (2400\|U101) | 0113 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0113) |
+| Phil (1070\|113) | 0114 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0114) |
+| PPS H1 (2315\|101) | 0115 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0115) |
+| PPS H2 (2315\|001) | 0116 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0116) |
+| R 137 (1080\|137) | 0117 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0117) |
+| R 140 (1080\|140) | 0118 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0118) |
+| R 220 (1080\|220) | 0119 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0119) |
+| R 5 (1080\|005) | 0120 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0120) |
+| Roter Hörsaal AM (Ro) (1420\|002) | 0121 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0121) |
+| RS 103 (3990\|103) | 0122 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0122) |
+| RS 105 (3990\|105) | 0123 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0123) |
+| RS 106 (3990\|106) | 0124 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0124) |
+| RS 107 (3990\|107) | 0125 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0125) |
+| RS 108 (3990\|108) | 0126 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0126) |
+| RS 4 (3990\|004) | 0128 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0128) |
+| RS 5 (3990\|005) | 0129 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0129) |
+| SE 001 (1580\|001) | 0130 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0130) |
+| SE 002 (1580\|002) | 0131 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0131) |
+| SE 003 (1580\|003) | 0132 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0132) |
+| SE 101 (1580\|101) | 0133 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0133) |
+| SE 102 (1580\|102) | 0134 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0134) |
+| SE 103 (1580\|103) | 0135 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0135) |
+| SE 108 (1580\|108) | 0136 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0136) |
+| SE 209 (1580\|209) | 0137 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0137) |
+| SFo 1 (1821\|001) | 0138 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0138) |
+| SFo 10 (1821\|010) | 0139 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0139) |
+| SFo 11 (1821\|011) | 0140 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0140) |
+| SFo 12 (1821\|012) | 0141 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0141) |
+| SFo 13 (1821\|013) | 0142 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0142) |
+| SFo 14 (1821\|014) | 0143 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0143) |
+| SFo 2 (1821\|002) | 0144 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0144) |
+| SFo 3 (1821\|003) | 0145 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0145) |
+| SFo 4 (1821\|004) | 0146 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0146) |
+| SFo 9 (1821\|009) | 0147 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0147) |
+| SG 12 (1810\|012) | 0148 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0148) |
+| SG 13 (1810\|013) | 0149 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0149) |
+| SG 202 (1810\|202) | 0150 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0150) |
+| SG 203 (1810\|203) | 0151 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0151) |
+| SG 23 (1810\|023) | 0152 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0152) |
+| SG 413 (1810\|413) | 0153 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0153) |
+| SG 422 (1810\|422) | 0154 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0154) |
+| SG 512 (1810\|512) | 0155 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0155) |
+| SG 513 (1810\|513) | 0156 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0156) |
+| Sparkassenforum (1040\|U234) | 0157 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0157) |
+| ST 1 (1665\|001) | 0160 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0160) |
+| ST 2 (1665\|002) | 0161 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0161) |
+| ST 3 (1665\|003) | 0162 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0162) |
+| ST 4 (1665\|004) | 0163 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0163) |
+| ST 5 (1665\|005) | 0164 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0164) |
+| ST 6 (1665\|006) | 0165 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0165) |
+| ST 7 (1665\|007) | 0166 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0166) |
+| ST 8 (1665\|008) | 0167 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0167) |
+| TD (1300\|408) | 0169 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0169) |
+| TEMP1 (1515\|001) | 0170 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0170) |
+| TEMP2 (1515\|002) | 0171 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0171) |
+| UMIC_024 (2165\|024) | 0172 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0172) |
+| UMIC_025 (2165\|025) | 0173 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0173) |
+| V (1010\|213) | 0174 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0174) |
+| VT (1100\|U101) | 0175 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0175) |
+| WK (1230\|001) | 0176 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0176) |
+| Z1 (1420\|304) | 0177 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0177) |
+| Z2 (1420\|303) | 0178 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0178) |
+| Z3 (1420\|302) | 0179 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0179) |
+| Z4 (1420\|301) | 0180 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0180) |
+| Z6 (1420\|201) | 0181 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0181) |
+| Z7 (1420\|201.3) | 0182 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0182) |
+| 001 (1830\|001) | 0183 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0183) |
+| 004 (1830\|004) | 0184 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0184) |
+| 1.29 (1040\|129) | 0185 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0185) |
+| 1.30 (1040\|130) | 0186 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0186) |
+| 28B 201 (4282\|201) | 0187 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0187) |
+| 38 A 2 (5381\|U103) | 0188 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0188) |
+| 4.29 (1040\|429) | 0189 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0189) |
+| 4.30 (1040\|430) | 0190 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0190) |
+| 5052 (2356\|052) | 0191 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0191) |
+| 5054 (2356\|054) | 0192 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0192) |
+| 5055 (2356\|055) | 0193 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0193) |
+| 5056 (2356\|056) | 0194 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0194) |
+| 5.31 (1040\|531) | 0195 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0195) |
+| 5.32 (1040\|532) | 0196 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0196) |
+| 1710\|201 | 0202 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0202) |
+| 1710\|201 | 0203 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0203) |
+| AachenMünchener Halle (Aula) (1010\|131) | 0204 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0204) |
+| AOC (2020\|131) | 0223 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0223) |
+| 38 A 1 (5381\|U111) | 0242 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0242) |
+| 1710\|202 | 0243 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0243) |
+| 38 A 3 (5381\|006) | 0245 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0245) |
+| MBP2 016 (4273\|016) | 0246 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0246) |
+| OC Hörsaal (2030\|015) | 0247 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0247) |
+| 5393\|172 | 0248 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0248) |
+| ZuseLab C2 (2315\|106) | 0249 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0249) |
+| ZuseLab C1 (2315\|107) | 0250 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0250) |
+| ZuseLab C4 (2315\|201) | 0251 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0251) |
+| ZuseLab C5 (2315\|202) | 0252 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0252) |
+| ZuseLab S1 (2315\|203) | 0253 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0253) |
+| ZuseLab C3 (2315\|211) | 0254 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0254) |
+| 2290\|112 | 0255 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0255) |
+| 1080\|103 | 0256 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0256) |
+| 2013\|101 | 0257 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0257) |
+| 2013\|102 | 0258 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0258) |
+| 2013\|102.1 | 0259 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0259) |
+| 2013\|201 | 0260 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0260) |
+| 2013\|202 | 0261 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0261) |
+| 2013\|202.1 | 0262 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0262) |
+| OC Praktikumssaal F1 (2013\|301) | 0263 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0263) |
+| OC Praktikumssaal F2 (2013\|302) | 0264 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0264) |
+| OC Praktikumssaal F3 (2013\|401) | 0265 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0265) |
+| OC Praktikumssaal F4 (2013\|402) | 0266 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0266) |
+| 2020\|002 | 0267 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0267) |
+| 2020\|003 | 0268 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0268) |
+| 5383\|233 | 0269 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0269) |
+| Praktikumssaal TC 38C333 (5383\|333) | 0270 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0270) |
+| 5383\|330 | 0271 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0271) |
+| Praktikumssaal TC 38C434 (5383\|434) | 0272 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0272) |
+| 5383\|430 | 0273 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0273) |
+| AC (2010\|107) | 0274 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0274) |
+| Experimentierhörsaal (2020\|102) | 0276 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0276) |
+| Seminarraum AC (2020\|202) | 0277 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0277) |
+| F 60 (1440\|160) | 0278 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0278) |
+| IPC Besprechungsraum (2400\|012) | 0280 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0280) |
+| IPC Praktikumssaal (2400\|004) | 0281 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0281) |
+| IPC Praktikumssaal (2400\|014) | 0282 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0282) |
+| 2030\|215.1 | 0283 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0283) |
+| Seminarraum TC (5422\|330.1) | 0284 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0284) |
+| Kleiner Hörsaal 42B331 (5422\|331) | 0285 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0285) |
+| Seminarraum 42 B 250 (B3) (5422\|250) | 0286 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0286) |
+| 1810\|101 | 0288 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0288) |
+| 1810\|108 | 0289 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0289) |
+| 1810\|118 | 0290 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0290) |
+| 1810\|138 | 0291 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0291) |
+| 1810\|223 | 0292 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0292) |
+| 1810\|224 | 0293 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0293) |
+| 2090\|U113 | 0294 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0294) |
+| ICT Cubes 001 (2320\|001) | 0295 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0295) |
+| ICT Cubes 002 (2320\|002) | 0296 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0296) |
+| 4242\|024 | 0297 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0297) |
+| 4242\|208 | 0298 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0298) |
+| 4242\|209 | 0299 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0299) |
+| 4242\|209.1 | 0300 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0300) |
+| 4242\|209.2 | 0301 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0301) |
+| 4242\|318 | 0302 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0302) |
+| 4242\|319 | 0303 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0303) |
+| 4242\|320 | 0304 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0304) |
+| WSH S2 (4243\|102) | 0305 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0305) |
+| WSH S1 (4243\|104) | 0306 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0306) |
+| WSH Praktikum (4243\|105) | 0307 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0307) |
+| 4243\|105.1 | 0308 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0308) |
+| Otto Fuchs-Hörsaal (H03) (1385\|003) | 0322 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0322) |
+| H06 (1385\|004) | 0323 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0323) |
+| H01 (1385\|101) | 0324 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0324) |
+| trivago-Hörsaal (H02) (1385\|102) | 0325 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0325) |
+| Knorr-Bremse-Hörsaal (H04) (1385\|103) | 0326 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0326) |
+| H07 (1385\|104) | 0327 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0327) |
+| H05 (1385\|105) | 0328 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0328) |
+| S01 (1385\|201) | 0329 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0329) |
+| S02 (1385\|202) | 0330 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0330) |
+| S03 (1385\|203) | 0331 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0331) |
+| S04 (1385\|204) | 0332 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0332) |
+| S05 (1385\|205) | 0333 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0333) |
+| S06 (1385\|206) | 0334 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0334) |
+| S07 (1385\|207) | 0335 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0335) |
+| S08 (1385\|208) | 0336 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0336) |
+| S09 (1385\|209) | 0337 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0337) |
+| S10 (1385\|210) | 0338 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0338) |
+| S11 (1385\|211) | 0339 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0339) |
+| S12 (1385\|212) | 0340 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0340) |
+| S13 (1385\|213) | 0341 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0341) |
+| S14 (1385\|214) | 0342 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0342) |
+| S15 (1385\|215) | 0343 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0343) |
+| S16 (1385\|216) | 0344 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0344) |
+| H10 (1385\|217) | 0345 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0345) |
+| H11 (1385\|218) | 0346 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0346) |
+| H08 (1385\|219) | 0347 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0347) |
+| H09 (1385\|220) | 0348 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0348) |
+| AH I alt bis SS 19 (2350\|009) | 0353 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0353) |
+| OC Seminarraum 6. Etage links (2031\|610) | 0354 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0354) |
+| 28D 001 (Hörsaal Physik) (4284\|101) | 0355 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0355) |
+| HKW 2 (1132\|303) | 0356 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0356) |
+| HSZ (2110\|112) | 0357 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0357) |
+| FOE (1830\|120) | 0358 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0358) |
+| IPC Seminarraum (2400\|002) | 0359 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0359) |
+| 2356\|010 | 0360 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0360) |
+| 6070\|Z202 | 0361 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0361) |
+| AS (1050\|U101) | 0362 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0362) |
+| RS 3 (3990\|003) | 0382 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0382) |
+| MBP2 015 (4273\|015) | 0383 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0383) |
+| 4273\|211 | 0384 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0384) |
+| 4273\|212 | 0385 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0385) |
+| 1220\|815 | 0424 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0424) |
+| 4741\|001 | 0425 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0425) |
+| 5382\|218 | 0426 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0426) |
+| OC Praktikumssaal G5 (2030\|013) | 0427 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0427) |
+| OC Praktikumssaal G1 (2030\|113) | 0429 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0429) |
+| OC Praktikumssaal G3 (2030\|215) | 0431 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0431) |
+| 5381\|101 | 0433 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0433) |
+| 5381\|102 | 0434 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0434) |
+| 1070\|103 | 0435 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0435) |
+| 1070\|104 | 0436 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0436) |
+| 1070\|114 | 0437 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0437) |
+| 1821\|130 | 0438 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0438) |
+| 4120\|132 | 0439 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0439) |
+| 2280\|U104 | 0440 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0440) |
+| 2280\|U105 | 0441 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0441) |
+| 2280\|U106 | 0442 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0442) |
+| 2280\|U107 | 0443 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0443) |
+| 3010\|019 | 0444 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0444) |
+| 3010\|047 | 0445 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0445) |
+| 3010\|059 | 0446 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0446) |
+| 1810\|201 | 0447 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0447) |
+| 1810\|205 | 0448 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0448) |
+| CIP-Pool FB6 (1810\|210) | 0450 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0450) |
+| 1810\|213 | 0451 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0451) |
+| 1810\|214 | 0452 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0452) |
+| 1810\|215 | 0453 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0453) |
+| 1810\|216 | 0454 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0454) |
+| 1810\|217 | 0455 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0455) |
+| 4242\|005 | 0456 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0456) |
+| 4242\|005.1 | 0457 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0457) |
+| 2320\|114 | 0458 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0458) |
+| 2320\|115 | 0459 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0459) |
+| 2321\|130 | 0460 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0460) |
+| 2321\|131 | 0461 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0461) |
+| 2321\|132 | 0462 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0462) |
+| 4120\|139 | 0463 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0463) |
+| 6010\|116 | 0464 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0464) |
+| 6010\|137 | 0465 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0465) |
+| E2 (1250\|143) | 0466 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0466) |
+| VT 214 (1100\|214) | 0482 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0482) |
+| Ford-Saal (1040\|637) | 0484 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0484) |
+| Generali-Saal (1040\|639) | 0485 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0485) |
+| 1420\|206 | 0486 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0486) |
+| 1420\|208 | 0487 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0487) |
+| 1810\|001 | 0488 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0488) |
+| 1050\|301 | 0489 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0489) |
+| 1050\|330.2 | 0490 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0490) |
+| 1050\|315 | 0491 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0491) |
+| 1360\|001 | 0492 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0492) |
+| 1360\|106 | 0493 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0493) |
+| 1360\|202 | 0494 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0494) |
+| 1360\|203 | 0495 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0495) |
+| 1360\|301 | 0496 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0496) |
+| 1520\|008 | 0497 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0497) |
+| 1522\|011 | 0498 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0498) |
+| 1522\|013 | 0499 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0499) |
+| 1522\|014 | 0500 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0500) |
+| 1522\|109 | 0501 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0501) |
+| 1522\|110 | 0502 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0502) |
+| 1160\|206 | 0503 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0503) |
+| 1160\|308 | 0504 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0504) |
+| 1160\|401 | 0505 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0505) |
+| 1160\|402 | 0506 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0506) |
+| 1160\|403 | 0507 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0507) |
+| 1170\|101 | 0508 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0508) |
+| 1170\|311 | 0509 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0509) |
+| 1170\|312 | 0510 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0510) |
+| 1170\|313 | 0511 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0511) |
+| Schulungsraum SW23 (2190\|147) | 0517 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0517) |
+| Seminarraum 2.31 SW23 (2190\|231) | 0519 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0519) |
+| SW23 3.04 (2190\|304) | 0520 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0520) |
+| Seminarraum 001 (2191\|001) | 0521 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0521) |
+| Seminarraum 003 (2191\|003) | 0523 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0523) |
+| Seminarraum 004 (2191\|004) | 0524 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0524) |
+| 2110\|107 | 0525 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0525) |
+| 2356\|019 | 0526 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0526) |
+| 2356\|030 | 0527 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0527) |
+| Sprachlabor (1580\|201) | 0528 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0528) |
+| 1580\|202 | 0529 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0529) |
+| 4660\|002 | 0530 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0530) |
+| 4660\|005 | 0531 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0531) |
+| 4660\|019 | 0532 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0532) |
+| 4660\|101 | 0533 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0533) |
+| 4660\|114 | 0534 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0534) |
+| 4660\|118 | 0535 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0535) |
+| 4660\|119 | 0536 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0536) |
+| 4660\|120 | 0537 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0537) |
+| 4660\|121 | 0538 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0538) |
+| 4660\|122 | 0539 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0539) |
+| 4660\|123 | 0540 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0540) |
+| 4660\|131 | 0541 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0541) |
+| 4660\|205 | 0542 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0542) |
+| 4660\|216 | 0543 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0543) |
+| 4660\|217 | 0544 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0544) |
+| 4660\|218 | 0545 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0545) |
+| 5392\|015 | 0546 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0546) |
+| 1390\|312 | 0547 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0547) |
+| 1200\|111 | 0548 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0548) |
+| 1200\|220 | 0549 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0549) |
+| 1200\|226 | 0550 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0550) |
+| 1140\|415 | 0552 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0552) |
+| 1095\|103 | 0553 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0553) |
+| E.ON ERC 00.24, Mathieustraße 10 (4120\|024) | 0554 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0554) |
+| 5381\|102.2 | 0555 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0555) |
+| 1950\|003 | 0556 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0556) |
+| SeMath (1950\|008) | 0557 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0557) |
+| MBP1 015 (4272\|015) | 0558 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0558) |
+| 1010\|149 | 0560 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0560) |
+| 1010\|114 | 0561 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0561) |
+| 1010\|115 | 0562 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0562) |
+| 1010\|223 | 0563 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0563) |
+| 1950\|001 | 0564 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0564) |
+| 1090\|328 | 0566 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0566) |
+| 2350\|U110 | 0567 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0567) |
+| 2359\|U111 | 0568 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0568) |
+| 9U10 (2359\|U112) | 0569 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0569) |
+| 2359\|U113 | 0570 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0570) |
+| 2359\|206 | 0571 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0571) |
+| 5400\|004 | 0572 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0572) |
+| Bibliothek Bio V (5423\|233) | 0573 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0573) |
+| 2353\|001 | 0574 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0574) |
+| 2353\|002 | 0575 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0575) |
+| 2353\|007 | 0576 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0576) |
+| 2353\|U114 | 0577 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0577) |
+| 2353\|U116 | 0578 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0578) |
+| 2353\|U118 | 0579 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0579) |
+| 2353\|017 | 0581 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0581) |
+| 2353\|201.1 | 0582 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0582) |
+| 2353\|307 | 0583 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0583) |
+| 2353\|311 | 0584 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0584) |
+| 2353\|312 | 0585 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0585) |
+| Studentischer Arbeitsraum (Raum 9029) (2359\|006) | 0586 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0586) |
+| Studentischer Arbeitsraum (Raum 9030) (2359\|007) | 0587 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0587) |
+| Studentischer Arbeitsraum (Raum 9005) (2359\|019) | 0588 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0588) |
+| Seminarraum COMSYS (9007) (2359\|021) | 0589 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0589) |
+| 2356\|053.1 | 0590 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0590) |
+| 2356\|053.2 | 0591 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0591) |
+| 2356\|053.3 | 0592 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0592) |
+| 2356\|202 | 0593 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0593) |
+| 2356\|241 | 0594 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0594) |
+| 2356\|241.1 | 0595 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0595) |
+| 2356\|205 | 0596 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0596) |
+| 2356\|124 | 0597 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0597) |
+| 1080\|139 | 0598 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0598) |
+| 1080\|141 | 0599 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0599) |
+| 1080\|221 | 0600 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0600) |
+| 1080\|222 | 0601 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0601) |
+| 1080\|325 | 0602 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0602) |
+| 1541\|301 | 0603 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0603) |
+| 1541\|302 | 0604 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0604) |
+| 1541\|304 | 0605 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0605) |
+| 1541\|305 | 0606 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0606) |
+| 1541\|313 | 0607 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0607) |
+| 1541\|314 | 0608 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0608) |
+| keine verfügbare Ressource (1541\|315) | 0609 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0609) |
+| Geschlossen wg. Schimmelbefall (1541\|316) | 0610 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0610) |
+| 1541\|318 | 0611 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0611) |
+| 1541\|319 | 0612 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0612) |
+| 2359\|105 | 0613 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0613) |
+| 2359\|118 | 0614 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0614) |
+| 2359\|120 | 0615 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0615) |
+| 3990\|201 | 0616 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0616) |
+| 202/ 203 (3990\|202) | 0617 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0617) |
+| 3990\|204 | 0618 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0618) |
+| 3990\|205 | 0619 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0619) |
+| 3990\|206 | 0620 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0620) |
+| 3990\|207 | 0621 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0621) |
+| 3990\|208 | 0622 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0622) |
+| 303 A (3990\|307) | 0623 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0623) |
+| 303 B (3990\|308) | 0624 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0624) |
+| 303 C (3990\|309) | 0625 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0625) |
+| 2356\|316 | 0626 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0626) |
+| 2356\|329 | 0627 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0627) |
+| 2356\|006 | 0628 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0628) |
+| 1080\|305 | 0629 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0629) |
+| 2350\|212 | 0630 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0630) |
+| Seminarraum Informatik 10 (2350\|222) | 0631 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0631) |
+| 1080\|101 | 0632 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0632) |
+| 1080\|102 | 0633 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0633) |
+| LearnLab (1080\|108) | 0634 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0634) |
+| 2002 (2350\|002) | 0635 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0635) |
+| 2350\|202 | 0636 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0636) |
+| 2350\|323 | 0637 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0637) |
+| Arbeitsraum Masterstudenten (1080\|U117) | 0638 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0638) |
+| Seminarraum (1080\|U118) | 0639 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0639) |
+| offener Raum mit angeschlossenem Sekretariat (1080\|006) | 0640 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0640) |
+| Seminarraum i7, Raum 4116 (2353\|116) | 0641 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0641) |
+| 2165\|229 | 0642 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0642) |
+| 26A 014 (4261\|014) | 0656 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0656) |
+| 28A 301 (4281\|301) | 0673 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0673) |
+| 4272\|002 | 0674 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0674) |
+| 4272\|003 | 0675 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0675) |
+| 4272\|004 | 0676 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0676) |
+| 4272\|005 | 0677 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0677) |
+| 4272\|006 | 0678 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0678) |
+| 4272\|007 | 0679 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0679) |
+| 4272\|008 | 0680 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0680) |
+| 4272\|009 | 0681 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0681) |
+| 4272\|010 | 0682 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0682) |
+| 4272\|011 | 0683 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0683) |
+| 4272\|012 | 0684 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0684) |
+| 4272\|013 | 0685 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0685) |
+| 4272\|014 | 0686 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0686) |
+| 4263\|301 | 0687 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0687) |
+| 26C 201 (4263\|201) | 0688 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0688) |
+| 26C 401 (4263\|401) | 0689 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0689) |
+| 26C 402 (4263\|402) | 0690 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0690) |
+| 28A 202 (4281\|202) | 0691 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0691) |
+| 28A 203 (4281\|203) | 0692 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0692) |
+| 4281\|204 | 0693 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0693) |
+| 4282\|101 | 0694 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0694) |
+| 4282\|102 | 0695 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0695) |
+| 4282\|102.1 | 0696 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0696) |
+| 4282\|103 | 0697 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0697) |
+| 4282\|104 | 0698 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0698) |
+| 4282\|105 | 0699 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0699) |
+| 4282\|106 | 0700 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0700) |
+| 4282\|107 | 0701 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0701) |
+| 4282\|109 | 0702 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0702) |
+| 28B 110 (4282\|110) | 0703 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0703) |
+| IST Seminarraum (1030\|017) | 0705 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0705) |
+| 1050\|221 | 0706 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0706) |
+| 1050\|508 | 0708 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0708) |
+| WiÜ (1050\|517) | 0709 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0709) |
+| 1050\|606 | 0710 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0710) |
+| B234 (3011\|234) | 0712 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0712) |
+| 1050\|519 | 0713 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0713) |
+| 1070\|008 | 0714 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0714) |
+| 1080\|019 | 0715 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0715) |
+| 1080\|020 | 0716 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0716) |
+| 1080\|211 | 0717 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0717) |
+| 1080\|Z215.1 | 0718 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0718) |
+| 1080\|Z217.1 | 0719 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0719) |
+| 1080\|215 | 0720 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0720) |
+| 1080\|217 | 0721 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0721) |
+| 1090\|323 | 0722 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0722) |
+| 1080\|308 | 0723 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0723) |
+| 1080\|311 | 0724 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0724) |
+| 1080\|Z407.2 | 0725 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0725) |
+| 1080\|Z409.1 | 0726 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0726) |
+| 1080\|404 | 0727 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0727) |
+| 1080\|407 | 0728 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0728) |
+| 1080\|Z119.2 | 0729 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0729) |
+| 1110\|001 | 0730 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0730) |
+| 1110\|002 | 0731 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0731) |
+| 1111\|004 | 0732 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0732) |
+| 1111\|101 | 0733 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0733) |
+| 1450\|003 | 0734 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0734) |
+| 1090\|108 | 0735 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0735) |
+| 1090\|212 | 0736 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0736) |
+| 1090\|315 | 0737 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0737) |
+| 1090\|316 | 0738 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0738) |
+| 1090\|402 | 0739 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0739) |
+| 1090\|513 | 0740 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0740) |
+| 1810\|106 | 0741 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0741) |
+| 1810\|109 | 0742 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0742) |
+| 1810\|110 | 0743 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0743) |
+| 1100\|204 | 0744 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0744) |
+| 1100\|205 | 0745 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0745) |
+| 1100\|210 | 0746 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0746) |
+| 1100\|211 | 0747 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0747) |
+| 1310\|419 | 0748 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0748) |
+| 1140\|048 | 0749 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0749) |
+| 1140\|050 | 0750 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0750) |
+| 1140\|051 | 0751 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0751) |
+| 1140\|226 | 0752 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0752) |
+| 1541\|009 | 0753 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0753) |
+| 1140\|212 | 0754 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0754) |
+| 1542\|013 | 0755 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0755) |
+| Be 318, Wüllnerstr. 2 (1140\|318) | 0756 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0756) |
+| Be 326, Wüllnerstr. 2 (1140\|326) | 0757 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0757) |
+| Be 409, Wüllnerstr. 2 (1140\|409.1) | 0758 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0758) |
+| Mikroskopielabor Be 414, Wüllnerstr. 2 (1140\|414) | 0759 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0759) |
+| Vorbereitungsraum, Süsterfeldstr. 22 (1510\|205) | 0760 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0760) |
+| 1140\|601 | 0761 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0761) |
+| 1160\|009 | 0762 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0762) |
+| 1160\|106 | 0763 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0763) |
+| Bibliothek 2 (1160\|109) | 0764 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0764) |
+| Bibliothek (1180\|001) | 0765 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0765) |
+| Lombardsaal (1180\|007) | 0766 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0766) |
+| 1180\|008 | 0767 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0767) |
+| 1210\|318 | 0768 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0768) |
+| 1210\|319 | 0769 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0769) |
+| 1220\|303 | 0770 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0770) |
+| 4542\|001 | 0771 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0771) |
+| MBP2 116 (4273\|116) | 0772 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0772) |
+| MBP2 117 (4273\|117) | 0773 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0773) |
+| 2020\|104 | 0774 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0774) |
+| Gruppenraum MC (5382\|011) | 0782 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0782) |
+| Kleiner Mikroskopiersaal (5421\|013) | 0783 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0783) |
+| Großer Mikroskopiersaal (5421\|032) | 0784 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0784) |
+| A033 (5421\|033) | 0785 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0785) |
+| 5421\|034 | 0786 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0786) |
+| 5421\|035 | 0787 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0787) |
+| 5423\|037 | 0788 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0788) |
+| Lernraum/Großer Lernraum (5423\|130) | 0789 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0789) |
+| Lernraum/Stillarbeitsraum (5423\|150) | 0790 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0790) |
+| Lernraum/Gruppenlernraum (5423\|151) | 0791 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0791) |
+| 5350\|307 | 0792 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0792) |
+| 5350\|344 | 0793 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0793) |
+| 5421\|314 | 0794 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0794) |
+| 5422\|231 | 0795 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0795) |
+| 5424\|311 | 0796 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0796) |
+| 5424\|334 | 0797 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0797) |
+| 5424\|111 | 0798 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0798) |
+| 5421\|116 | 0799 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0799) |
+| 5421\|130 | 0800 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0800) |
+| 5421\|250 | 0801 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0801) |
+| Raum 0.012 (5350\|046) | 0802 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0802) |
+| Raum 0.011 Vorbereitung (5350\|046.1) | 0803 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0803) |
+| Raum 1.011 (5350\|142) | 0804 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0804) |
+| Raum 1.010 (5350\|143) | 0805 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0805) |
+| Raum 2.015 (5350\|245) | 0806 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0806) |
+| Raum 2.015 Laborzeile (5350\|245.1) | 0807 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0807) |
+| Raum 2.013 (5350\|246) | 0808 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0808) |
+| Raum 2.011 (5350\|247) | 0809 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0809) |
+| Raum 2.011 Laborzeile (5350\|247.1) | 0810 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0810) |
+| 1541\|322 | 0811 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0811) |
+| 1541\|306 | 0812 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0812) |
+| 1541\|307 | 0813 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0813) |
+| 1541\|308 | 0814 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0814) |
+| T3 Pavillon (2125\|001) | 0815 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0815) |
+| Zeichensaal ZS 414 (2130\|414) | 0816 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0816) |
+| 2130\|503 | 0817 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0817) |
+| Zeichensaal ZS 511 (2130\|511) | 0818 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0818) |
+| 2130\|512 | 0819 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0819) |
+| Zeichensaal ZS 613 (2130\|613) | 0820 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0820) |
+| 5424\|212 | 0821 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0821) |
+| 5424\|213 | 0822 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0822) |
+| 5424\|214 | 0823 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0823) |
+| 5424\|238 | 0824 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0824) |
+| 5350\|447 | 0825 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0825) |
+| 1810\|317 | 0826 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0826) |
+| 1810\|301 | 0827 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0827) |
+| 1810\|309 | 0828 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0828) |
+| 1541\|317 | 0829 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0829) |
+| 2130\|114 | 0830 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0830) |
+| 2130\|236 | 0831 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0831) |
+| 2130\|309 | 0832 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0832) |
+| 2130\|605 | 0833 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0833) |
+| 4080\|103 | 0834 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0834) |
+| 4100\|003 | 0835 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0835) |
+| 4610\|004 | 0836 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0836) |
+| 4610\|006 | 0837 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0837) |
+| 4650\|210 | 0838 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0838) |
+| 2130\|406 | 0839 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0839) |
+| 2130\|413 | 0840 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0840) |
+| 2135\|002 | 0841 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0841) |
+| 2175\|209 | 0842 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0842) |
+| 1220\|506 | 0843 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0843) |
+| 4150\|107 | 0850 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0850) |
+| 4153\|018 | 0851 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0851) |
+| 4153\|019 | 0852 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0852) |
+| 4153\|118 | 0853 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0853) |
+| 4153\|119 | 0854 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0854) |
+| 4153\|120 | 0855 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0855) |
+| 4153\|121 | 0856 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0856) |
+| 1300\|402 | 0857 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0857) |
+| 4070\|213 | 0858 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0858) |
+| 1225\|106 | 0859 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0859) |
+| 4532\|201 | 0864 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0864) |
+| 4532\|209 | 0865 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0865) |
+| 4550\|144 | 0866 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0866) |
+| 4532\|101 | 0867 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0867) |
+| 4550\|132 | 0872 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0872) |
+| 4550\|132.2 | 0873 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0873) |
+| 2140\|006 | 0874 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0874) |
+| 2140\|106 | 0875 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0875) |
+| 1320\|515 | 0879 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0879) |
+| 1320\|505 | 0880 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0880) |
+| 1320\|110 | 0881 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0881) |
+| 4532\|108 | 0882 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0882) |
+| 1630\|U101 | 0886 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0886) |
+| 3990\|002 | 0887 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0887) |
+| 3990\|101 | 0888 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0888) |
+| Seminarraum FT 103 (2090\|U203) | 0889 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0889) |
+| PC-Pool & Lernraum (2090\|121) | 0890 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0890) |
+| 2090\|127 | 0891 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0891) |
+| 2090\|128 | 0892 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0892) |
+| 2090\|221 | 0893 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0893) |
+| 1230\|003 | 0894 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0894) |
+| 1230\|011 | 0895 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0895) |
+| 4160\|303 | 0899 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0899) |
+| Seminarraum Nord/Süd im EG (4161\|025) | 0900 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0900) |
+| 4161\|117 | 0901 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0901) |
+| Seminarraum im 1. OG, Lünenschloß (4161\|122) | 0902 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0902) |
+| 5400\|005 | 0903 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0903) |
+| 5400\|015 | 0904 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0904) |
+| 5400\|015.1 | 0905 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0905) |
+| 5410\|206 | 0906 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0906) |
+| 4120\|252 | 0907 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0907) |
+| 4122\|007 | 0908 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0908) |
+| LIH 501, Lochnerstr. 4-20 (1540\|501) | 0909 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0909) |
+| LIH 503, Lochnerstr. 4-20 (1540\|503) | 0910 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0910) |
+| LIH 504, Lochnerstr. 4-20 (1540\|504) | 0911 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0911) |
+| 3011\|224 | 0912 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0912) |
+| 3011\|225 | 0913 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0913) |
+| 3011\|226 | 0914 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0914) |
+| OMS Seminarraum (3011\|227) | 0915 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0915) |
+| 3011\|228 | 0916 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0916) |
+| 3011\|229 | 0917 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0917) |
+| 2162\|217 | 0918 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0918) |
+| 1401\|111 | 0921 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0921) |
+| 1401\|306 | 0922 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0922) |
+| 1390\|217 | 0923 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0923) |
+| 2180\|201 | 0924 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0924) |
+| 2180\|211 | 0925 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0925) |
+| 1440\|161 | 0927 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0927) |
+| 1370\|004 | 0928 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0928) |
+| 1370\|301 | 0929 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0929) |
+| Seminarraum 01-220 (2162\|117) | 0930 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0930) |
+| Großer Seminarraum (1381\|101) | 0931 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0931) |
+| Kleiner Seminarraum (1381\|102) | 0932 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0932) |
+| 1510\|201 | 0933 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0933) |
+| IFK 310, Jägerstr. 17-19 (6010\|310) | 0934 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0934) |
+| 1810\|403 | 0935 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0935) |
+| 1540\|314 | 0936 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0936) |
+| GED/NUG 408, Lochnerstr. 4-20 (1540\|408) | 0937 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0937) |
+| GED/NUG 414, Lochnerstr. 4-20 (1540\|414) | 0938 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0938) |
+| 1540\|210 | 0939 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0939) |
+| LIH 217, Lochnerstr. 4-20 (1540\|217) | 0940 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0940) |
+| LIH 507 (CIP-Pool), Lochnerstr. 4-20 (1540\|507) | 0941 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0941) |
+| 1540\|509 | 0942 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0942) |
+| Seminarraum LEK, Lochnerstr. 4-20, Haus B (1541\|109) | 0943 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0943) |
+| CIP-Pool, E.ONERC 20.44, Mathieustr. 10 (4120\|244) | 0944 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0944) |
+| 5400\|015.2 | 0945 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0945) |
+| 5411\|054 | 0946 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0946) |
+| 2320\|412 | 0947 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0947) |
+| 2320\|513 | 0948 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0948) |
+| 2321\|430 | 0949 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0949) |
+| 2321\|431 | 0950 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0950) |
+| 2321\|432 | 0951 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0951) |
+| Multimediaraum (MMR, R27) (2090\|008) | 0952 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0952) |
+| Praktikum Kommunikationstechnik (R41) (2090\|210) | 0953 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0953) |
+| Studierendenlabor links (R41a) (2090\|211) | 0954 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0954) |
+| Studierendenlabor rechts (R41b) (2090\|212) | 0955 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0955) |
+| IKS 209 (2040\|009) | 0957 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0957) |
+| 4G (2040\|201) | 0961 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0961) |
+| Praktikumsraum (2321\|332) | 0967 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0967) |
+| Seminarraum (2321\|333) | 0968 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0968) |
+| Seminarraum (2321\|334) | 0969 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0969) |
+| 1270\|104 | 0970 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0970) |
+| 2350\|101 | 0971 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0971) |
+| 2320\|213 | 0972 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0972) |
+| 2320\|214 | 0973 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0973) |
+| 2321\|230 | 0974 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0974) |
+| 2321\|231 | 0975 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0975) |
+| 4243\|213 | 0976 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0976) |
+| 4243\|214 | 0977 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0977) |
+| 2321\|631 | 0978 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0978) |
+| 2321\|632 | 0979 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0979) |
+| 1710\|206 | 0980 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0980) |
+| 6011\|307 | 0981 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0981) |
+| 6011\|307.1 | 0982 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0982) |
+| 6011\|308 | 0983 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0983) |
+| 6011\|309 | 0984 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0984) |
+| 6011\|310 | 0985 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0985) |
+| 6011\|311 | 0986 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0986) |
+| 1830\|101 | 0987 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0987) |
+| Dautzenberg-Raum (6070\|001) | 0988 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0988) |
+| Reumont-Raum (6070\|002) | 0989 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0989) |
+| Hansen-Raum (6070\|006) | 0990 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0990) |
+| Zeitschriftenraum Bibliothek (6070\|113) | 0991 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0991) |
+| 1830\|002 | 0992 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0992) |
+| 3011\|301 | 0993 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0993) |
+| 3011\|243 | 0994 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0994) |
+| 3011\|244 | 0995 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0995) |
+| 1610\|003 | 0996 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0996) |
+| 3011\|238 | 0998 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=0998) |
+| Fristenbriefkasten der RWTH | 1062 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1062) |
+| Seminarraum 1 (MTI\|1) | 1082 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1082) |
+| MTI - AIXTRA 01 (MTI\|103) | 1083 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1083) |
+| MTI - AIXTRA 02 (MTI\|103a) | 1084 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1084) |
+| MTI - AIXTRA 03 (MTI\|103b) | 1085 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1085) |
+| MTI - AIXTRA 04 (MTI\|104) | 1086 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1086) |
+| MTI - AIXTRA 05 (MTI\|105) | 1087 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1087) |
+| Kursraum 106 (MTI\|106) | 1088 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1088) |
+| MTI - AIXTRA 06 (MTI\|106) | 1089 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1089) |
+| Kursraum 107 (MTI\|107) | 1090 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1090) |
+| MTI - AIXTRA 07 (MTI\|107) | 1091 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1091) |
+| Kursraum 108 (MTI\|108) | 1092 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1092) |
+| Kursraum 108 (MTI\|108) | 1093 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1093) |
+| Kursraum 110 (MTI\|110) | 1094 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1094) |
+| Kursraum 110 L (MTI\|110 L) | 1095 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1095) |
+| Kursraum 110 R (MTI\|110 R) | 1096 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1096) |
+| Unterrichtsraum (MTI\|129) | 1097 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1097) |
+| MTI Hörsaal (MTI\|130) | 1098 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1098) |
+| Seminarraum 2 (MTI\|2) | 1099 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1099) |
+| Kommunikationsraum (MTI\|206) | 1100 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1100) |
+| Prosektur Seminarraum (MTI\|29) | 1101 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1101) |
+| Seminarraum 3 (MTI\|3) | 1102 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1102) |
+| Seminarraum 4 (MTI\|4) | 1103 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1103) |
+| Präpariersaal (MTI\|42) | 1104 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1104) |
+| Histologiesaal (MTI\|42.1) | 1105 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1105) |
+| Seminarraum 5 (MTI\|5) | 1106 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1106) |
+| Seminarraum 6 (MTI\|6) | 1107 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1107) |
+| Seminarraum 7 (MTI\|7) | 1108 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1108) |
+| Hörsaal 1 (UKA\|Fl. 23, R1) | 1109 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1109) |
+| Hörsaal 2 (UKA\|Fl. 23, R2) | 1110 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1110) |
+| Hörsaal 3 (UKA\|Fl. 24, R1) | 1111 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1111) |
+| Hörsaal 4 (UKA\|Fl. 25, R1) | 1112 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1112) |
+| Hörsaal 5 (UKA\|Fl. 26, R1) | 1113 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1113) |
+| Hörsaal 6 (UKA\|Fl. 26, R2) | 1114 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1114) |
+| Kursraum 15 (K15) (UKA\|Fl. 42, R1) | 1115 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1115) |
+| Kursraum 16 (K16) (UKA\|Fl. 42, R3) | 1116 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1116) |
+| Kursraum 17 (K17) (UKA\|Fl. 42, R4) | 1117 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1117) |
+| Kursraum 18 (K18) (UKA\|Fl. 42, R6) | 1118 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1118) |
+| UKA - Seminarraum (UKA\|Fl 46, 04) | 1119 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1119) |
+| UKA Spiegelsaal (UKA\|Fl3, R1) | 1120 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1120) |
+| UKA Konferenzraum (UKA\|Fl3, R2) | 1121 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1121) |
+| UKA - AIXTRA 02 (UKA\|F41 R1) | 1122 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1122) |
+| UKA - Aixtra 02 (UKA\|F41 R10) | 1123 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1123) |
+| UKA-Computerseminarraum (Coma-Pool 2) (UKA\|F41 R11/12) | 1124 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1124) |
+| UKA-Computerseminarraum (Coma-Pool 1) (UKA\|F41 R13/14) | 1125 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1125) |
+| UKA - AIXTRA 2 (UKA\|F41 R2) | 1126 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1126) |
+| UKA - AIXTRA 3 (UKA\|F41 R3) | 1127 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1127) |
+| UKA - AIXTRA 4 (UKA\|F41 R4) | 1128 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1128) |
+| UKA - AIXTRA 5 (UKA\|F41 R5) | 1129 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1129) |
+| UKA - AIXTRA 6 (UKA\|F41 R6) | 1130 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1130) |
+| UKA - AIXTRA 09 (UKA\|F41 R9) | 1131 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1131) |
+| Gesellschaftsraum (UKA\|Zahn 7) | 1132 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1132) |
+| Veranstaltungsraum (UKAGUT\|Gut Melaten) | 1133 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1133) |
+| 1100\|208 | 1142 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1142) |
+| 6070\|057 | 1143 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1143) |
+| Lesesaal (1400\|210) | 1162 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1162) |
+| FZ Jülich | 1182 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1182) |
+| 4651\|206 | 1202 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1202) |
+| HKW 1 (1132\|203) | 1203 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1203) |
+| 4814\|152 | 1222 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1222) |
+| 4814\|154 | 1223 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1223) |
+| 26C 005 (4263\|005) | 1242 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1242) |
+| 26C 109 (4263\|109) | 1243 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1243) |
+| 5001\|005 | 1262 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1262) |
+| 5423\|131 | 1282 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1282) |
+| 5350\|345 | 1283 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1283) |
+| 1540\|416 | 1284 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1284) |
+| 1010\|242 | 1302 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1302) |
+| 5001\|001 | 1303 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1303) |
+| 5001\|003 | 1304 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1304) |
+| 6070\|303 | 1305 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1305) |
+| Se 1 (3024\|003.1) | 1306 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1306) |
+| E.ON ERC 00.23, Mathieustraße 10 (4120\|023) | 1307 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1307) |
+| 3021\|026 | 1322 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1322) |
+| B1.22 (3021\|122) | 1323 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1323) |
+| 9220 (2359\|220) | 1324 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1324) |
+| 9222 (2359\|222) | 1325 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1325) |
+| Be 211 (1140\|211) | 1342 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1342) |
+| 1010\|241 | 1362 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1362) |
+| Seminarraum Nebengebäude (2010\|211) | 1382 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1382) |
+| 2010\|109 | 1383 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1383) |
+| 2010\|110 | 1384 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1384) |
+| 1830\|204 | 1385 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1385) |
+| Veranstaltungsraum (UKA\|Foyer) | 1386 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1386) |
+| MBP1 026 (4272\|026) | 1387 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1387) |
+| 6095\|101 | 1388 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1388) |
+| 6095\|104 | 1389 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1389) |
+| 1381\|U106 | 1402 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1402) |
+| 1381\|U107 | 1403 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1403) |
+| Semiarraum Wirtschaftsinformatik (1610\|004) | 1404 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1404) |
+| 2130\|010 | 1422 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1422) |
+| 4283\|401 | 1442 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1442) |
+| B057 (3011\|057) | 1443 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1443) |
+| WSH S3 (4170\|109) | 1444 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1444) |
+| 5422\|356 | 1463 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1463) |
+| 2321\|634 | 1464 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1464) |
+| Feldhaus (6016\|001) | 1483 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1483) |
+| Feldhaus (6016\|005) | 1484 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1484) |
+| 1830\|102 | 1485 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1485) |
+| 1821\|114 | 1486 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1486) |
+| 1821\|213 | 1487 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1487) |
+| Leonardo-Raum (6070\|216) | 1503 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1503) |
+| 6070\|217 | 1504 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1504) |
+| 1070\|001 | 1505 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1505) |
+| 1160\|301 | 1523 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1523) |
+| MetP11 (2181\|102) | 1524 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1524) |
+| Konferenzraum SW23 (2190\|011) | 1543 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1543) |
+| Aquarium (2191\|125) | 1544 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1544) |
+| IT-PFL Besprechungsraum (3038\|302) | 1545 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1545) |
+| Besprechungsraum 115 (2190\|115) | 1563 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1563) |
+| Leseraum (2190\|102) | 1583 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1583) |
+| 6070\|407 | 1584 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1584) |
+| 1080\|116 | 1603 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1603) |
+| 1810\|314 | 1604 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1604) |
+| Foyer Reiffmuseum (1080\|024) | 1605 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1605) |
+| Extern | 1606 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1606) |
+| 4283\|204 | 1623 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1623) |
+| A1.10 (3020\|110) | 1624 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1624) |
+| B1.21 (3021\|121) | 1625 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1625) |
+| Konferenzraum (2320\|312) | 1643 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1643) |
+| 1952\|405 | 1663 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1663) |
+| 1010\|224.3 | 1683 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1683) |
+| SR EG (1350\|003) | 1703 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1703) |
+| SR 2OG (1350\|203) | 1704 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1704) |
+| Ausstellungsraum, 1. Untergeschoss (1080\|U133) | 1723 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1723) |
+| 1050\|402 | 1743 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1743) |
+| Lernraum (1420\|U204) | 1763 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1763) |
+| Lernraum (1420\|U215) | 1764 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1764) |
+| 4161\|019.2 | 1765 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1765) |
+| 4161\|020 | 1766 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1766) |
+| Raum 2020 (2350\|019) | 1783 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1783) |
+| AH I neu ab SS 19 (2350\|028) | 1803 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1803) |
+| 5381\|102.3 | 1823 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1823) |
+| 1830\|121 | 1824 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1824) |
+| 2165\|305 | 1844 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1844) |
+| 2165\|326 | 1845 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1845) |
+| Be 318c, Wüllnerstr. 2 (1140\|318.3) | 1846 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1846) |
+| 1080\|312.1 | 1847 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1847) |
+| 1084\|002 | 1848 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1848) |
+| 1084\|102 | 1849 | [Link](https://online.rwth-aachen.de/RWTHonline/pl/ui/$ctx/wbKalender.wbRessource?pResNr=1849) |
